@@ -1,0 +1,9 @@
+#basic-navbar-nav {
+    float: right;
+}
+
+.dropdown-item{
+    color: red;
+    background: violet;
+    font-weight: 800;
+}
